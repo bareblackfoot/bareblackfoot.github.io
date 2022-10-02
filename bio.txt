@@ -1,0 +1,4 @@
+Nuri is a Ph.D. student in the Department of Electrical and Computer Engineering at Seoul National University, South Korea.
+Her research interests include Vision-based Navigation, Object Detection, and Machine Learning.
+Especially, she is interested in enabling a robot to understand semantic information, such as visual input and object relationships. 
+She received a B.S. degree (with great honors) in the Department of Electrical Engineering from Korea University, South Korea in 2016.
