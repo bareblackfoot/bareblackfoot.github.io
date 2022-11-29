@@ -136,7 +136,8 @@
     color: #FFF;
     font-style: normal;
     font-size: 28px;
-    font-family: Arial, Baskerville, monospace; }
+    font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;}
+    /* font-family: Arial, Baskerville, monospace; } */
     .mfp-close:hover,
     .mfp-close:focus {
       opacity: 1; }

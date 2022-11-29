@@ -16,7 +16,9 @@
 }
 .ai {
 	display:inline-block;
-	font:normal normal normal 14px/1 Academicons;
+  /* font-family: 'Titillium Web', Verdana, Helvetica, sans-serif; */
+	/* font:normal normal normal 14px/1 Academicons; */
+  font: 'Titillium Web', Verdana, Helvetica, sans-serif;
 	font-size:inherit;
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
